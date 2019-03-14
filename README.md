@@ -8,4 +8,4 @@ var MAPBOX_TOKEN = <YOUR_MAPBOX_TOKEN>;
 
 3. Open the terminal and run the app.py script.
 
-4. Open a browser and go to http://localhost:5000/
+4. Open a browser and go to http://localhost:5000/ 
